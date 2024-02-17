@@ -1,0 +1,10 @@
+C:\Users\slimb\source\repos\Uni X Code\bin\Debug\Uni X Code.exe.config
+C:\Users\slimb\source\repos\Uni X Code\bin\Debug\Uni X Code.exe
+C:\Users\slimb\source\repos\Uni X Code\bin\Debug\Uni X Code.pdb
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni X Code.csproj.AssemblyReference.cache
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni_X_Code.Form1.resources
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni_X_Code.Properties.Resources.resources
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni X Code.csproj.GenerateResource.cache
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni X Code.csproj.CoreCompileInputs.cache
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni X Code.exe
+C:\Users\slimb\source\repos\Uni X Code\obj\Debug\Uni X Code.pdb
